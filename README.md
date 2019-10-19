@@ -14,7 +14,7 @@ Structural with:
 - Composite
 - Decorator
 - Facade
-- Fleyweight
+- Flyweight
 - Proxy
 
 Behavioral with:
